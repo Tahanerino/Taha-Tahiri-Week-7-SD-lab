@@ -1,0 +1,45 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="0GsmsgLphtjZpo4z_gPO">
+    <mxGraphModel dx="834" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E62MhdUim3wUFajrJkt0-6" edge="1" parent="1" source="E62MhdUim3wUFajrJkt0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="E62MhdUim3wUFajrJkt0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E62MhdUim3wUFajrJkt0-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Client" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E62MhdUim3wUFajrJkt0-7" edge="1" parent="1" source="E62MhdUim3wUFajrJkt0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="E62MhdUim3wUFajrJkt0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E62MhdUim3wUFajrJkt0-8" edge="1" parent="1" source="E62MhdUim3wUFajrJkt0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="E62MhdUim3wUFajrJkt0-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E62MhdUim3wUFajrJkt0-9" edge="1" parent="1" source="E62MhdUim3wUFajrJkt0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="E62MhdUim3wUFajrJkt0-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E62MhdUim3wUFajrJkt0-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Program factory" vertex="1">
+          <mxGeometry height="60" width="490" x="180" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="E62MhdUim3wUFajrJkt0-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Program2" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="E62MhdUim3wUFajrJkt0-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Program1" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="E62MhdUim3wUFajrJkt0-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Program3" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="340" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
